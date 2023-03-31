@@ -32,6 +32,7 @@ jupyterlab_miami_nights
 
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets==7.6.3
+widgetsnbextension~=3.5.0
 # widgetsnbextension==4.0.7
 # ipywidgets>=8.0.0,<9
 
