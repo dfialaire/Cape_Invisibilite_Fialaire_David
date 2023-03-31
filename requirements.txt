@@ -3,7 +3,7 @@ jupyterlite-core==0.1.0b22
 jupyterlab~=3.5.1
 
 # Python kernel (optional)
-jupyterlite-pyodide-kernel==0.0.5
+jupyterlite-pyodide-kernel==0.0.6
 
 # JavaScript kernel (optional)
 jupyterlite-javascript-kernel==0.1.0b21
@@ -31,11 +31,7 @@ jupyterlab-night
 jupyterlab_miami_nights
 
 # Python: ipywidget library for Jupyter notebooks (optional)
-# ipywidgets==7.6.3
-# widgetsnbextension~=3.5.0
-# widgetsnbextension==4.0.7
 ipywidgets>=8.0.0,<9
-
 # Python: ipyevents library for Jupyter notebooks (optional)
 ipyevents>=2.0.1
 # Python: interative Matplotlib library for Jupyter notebooks (optional)
@@ -48,9 +44,3 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
-# opencv-python
-pillow
-# import numpy as np
-# import matplotlib.pyplot as plt
-# import IPython.display
-# imageio
