@@ -44,7 +44,7 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
-opencv-contrib-python-headless
+opencv-python
 pillow
 # import numpy as np
 # import matplotlib.pyplot as plt
