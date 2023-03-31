@@ -44,3 +44,9 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+cv2
+PIL
+# import numpy as np
+# import matplotlib.pyplot as plt
+# import IPython.display
+imageio
